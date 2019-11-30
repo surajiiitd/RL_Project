@@ -1,4 +1,4 @@
-# RL_Project
+# Reinforcement Learning Project
 Deep_RL contains the deep Q learning technique.
 To run it, follow the below guidelines:
 1. use tools tools/conv_*.py to prepare datasets; read the headers of those files; data is expected to be in ../data
