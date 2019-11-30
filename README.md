@@ -5,4 +5,16 @@
 4. you can also evaluate the agent on the test set with eval.py --dataset [dataset] --flambda [lambda]
 
 
+
+Baseline Methods: 
+1. DNN : Deep Neural Network (Using CNN with FC layers)
+2. Oversampling Method : Using SMOTE method
+3. Undersampling Method : Sample the data randomly
+
+Imbalance ratio = Np(number of positive samples)/ Nn(number of negative samples)
+i.e, the number of positive samples and negative samples are equal then, imabalance ratio = 1.
+
+Supplementary contains the report of the results. It contains all baseline model results.
+
+
 Reference for Code : https://github.com/jaromiru/cwcf
